@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">codesgtasanandreas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="waepon"> LXGIWYL - set of weapons №1 for amateurs (brass knuckles, Baseball Bat, 9mm pistol, shotgun, micro SMG, AK-47, rifle, rocket launcher, Molotov cocktail, spraycan).\n\nPROFESSIONALSKIT, KJKSZPJ - set of weapons №2 for professionals (knife, pistol Desert Eagle, shotgun Sawn-off, Tec-9, M4, sniper rifle, fire extinguisher, flamethrower, grenades).\n\nUZUMYMW - set of weapons №3 for the crazies (chainsaw, a silenced pistol, combat shotgun, MP5, M4, Heat Seeking Rocket Launcher, bomb with remote control).\n\n
+FULLCLIP WANRLTW - infinite amount of ammo and shooting without reloading.\n\n
+NCSGDAG PROFESSIONALKILLER - the highest level of knowledge of all kinds of weapons\n\n
+OUIQDMW - automatic focus when shooting from machine</string>
+    <string name="weather">AFZLLQLL - the Sunny weather\n\n
+ICIKPYH - the weather is very sunny\n\n
+ALNSFMZO - cloud weather\n\n
+AUIFRVQS - rainy weather\n\n
+CFVFGMJ - the foggy weather\n\n
+MGHXYRM - storm\n\n
+CWJXUOC - Buran (sandstorm)\n\n YSOHNUL - accelerate playing time\n\n
+PPGWJHT - speed up the game (gameplay)\n\n
+LIYOAAY - slow gameplay\n\n
+XJVSNAJ NIGHTPROWLER - always midnight. The game clock is stopped at 00:00. If you die, it will return noon - 12:00.</string>
+    <string name="other"> HESOYAM - full health, armor and $250,000\n\n
+BAGUVIX - infinite health protection from bullets, fire and shock, however you still can suffer from the explosions, falling from a height, collision of a car  or drown\n\n
+CVWKXAM - unlimited breath under water\n\n
+AEDUWNV - always hungry, never to be hungry\n\n
+MUNASEF ANOSEONGLASS - adrenaline level\n\nASNAEB TURNDOWNTHEHEAT - remove wanted level (all the stars disappear).\n\n
+LJSPQK BRINGITON - increase wanted level to the maximum (6 star search).\n\n
+OSRBLHH TURNUPTHEHEAT - increase wanted level by 2 stars\n\n
+AEZAKMI - elusive, never get caught and arrested\n\nOGXSDAG WORSHIPME - maximum respect\n\n
+EHIBXQS HELLOLADIES - maximum attractiveness.\n\n
+BTCDBCB - CJ is very thick\n\n
+KVGYZQK - CJ is skinny\n\n
+BUFFMEUP JYSDSOD - CJ is muscular hunk\n\n
+VKYPQCF - Max Stamina\n\ngit init
+VQIMAHA NATURALTALENT - CJ maximum level of driving all transport\n\n
+BIFBUZZ - gang seized absolutely the entire state of San Andreas. The streets of cities are completely empty, no one except the bandits of opposite groups that are fighting without respite.\n\n
+MROEMZH gangs everywhere, they will surround you everywhere, even where they shouldn't (for example, Ballases in Las Venturas).\n\nAJLOJYQY - People hit each other with golfclubs\n\n
+BAGOWPG - Have a bounty on your head.\n\n
+FOOOXFT - All armed.\n\n
+SZCMAWO - Suicide.\n\n
+ASBHGRB - Elvises everywhere.\n\n
+BGLUAWML - People attack you with weapons.\n\n
+CIKGCGX - Party on the beach.\n\n
+MROEMZH - gang Members everywhere.\n\n
+BIFBUZZ - Control of the streets.\n\n
+AFPHULTL - Ninja.\n\n
+BEKKNQV - Girl… .\n\n
+JHJOECW - Huge Bunny Hop.\n\n
+LFGMHAL - Mega jumps.\n\n
+IAVENJQ - Mega hit.\n\n
+AEDUWNV - You don't know the word "hunger".\n\n
+IOJUFZN - Riot mode.\n\n
+PRIEBJ - Funhouse Theme.\n\n
+OUIQDMW - the Complete weapon aiming in the car.\n\n
+THGLOJ - Abbreviation of the movement.\n\n
+SJMAHPE - the Recruitment of any (9mm).\n\n
+ZSOXFSQ - the Recruitment of any (Rockets).\n\n
+CRAZYTOWN - everyone is crazies\n\n
+NATURALTALENT - all your skills pumped to the maximum parameters.\n\n
+
+    </string>
+    <string name="cars">AIWPRTON - Rhino tank\n\n
+CQZIJMB - Bloodring Banger\n\n
+PDNEJOH - Hotring Racer 73\n\n
+VPJTQWV - Hotring Racer 07\n\n
+AQTBCODX - Romero\n\n
+KRIJEBR - Stretch\n\n
+UBHYZHQ - Trashmaster\n\n
+RZHSUEW - golfcar Caddy\n\n
+AKJJYGLC FOURWHEELFUN - Quadbike\n\n
+AMOMHRER - Tanker Truck\n\n
+EEGCYXT - Dozer\n\n
+AGBDLCID - Monster\n\n
+JQNTDMH - Rancher\n\nJUMPJET - plane Hydra\n\n
+OHDUDE - helicopter Hunter\n\n
+URKQSRK - Stunt Plane\n\nKGGGDKP - Vortex Hovercraft\n\n
+ROCKETMAN YECGAA - Jetpack\n\n
+AIYPWZQP - get the parachute\n\nCOXEFGU - all the cars have nitro, but its stock is limited so to meet the need to get out and sit back in the car.\n\n
+CPKTNWT - explode all cars. All machines in the field of visibility of the player will shoot up into the air.\n\n
+XICWMD - all transport becomes invisible (transparent), except motorcycles. Wheels are the only visible part of car.\n\n
+PGGOMOY - perfect control. Increases the sensitivity and sharpness in the driving.\n\n
+ZEIIVG - traffic lights are always green. Stable light is green.\n\n
+YLTEICZ - aggressive drivers. Drivers and their passengers engage in a shootout with police.\n\n
+LLQPFBN AGRUXVHIQYH - the color of all cars becomes pink. More glamour in San Andreas.\n\n
+IOWDLAC AGRUJRYMNOL - the color of all machines is black. Mourning in the state…\n\n
+RIPAZHA - flying cars. Speeding car can fly. control like in the plane.\n\n
+FVTMNBZ - all cars and people from the countryside. Cities of the state of San Andreas go rednecks.\n\n
+AFSNMSMW - flying boats. All boats and yachts fly, though boats could not fly high, because it's too heavy.\n\n
+BGKGTJH - on the streets SA only cheap slower cars.\n\n
+GUSNHDE - on the streets SA expensive fast and sports car.\n\n
+BSXSGGC BUBBLECARS - the slightest collision of your machine with other car they lose weight and fly up.\n\n
+JCNRUAD - any car that you sit in becomes practically not killable, and collisions with other transport breaks.\n\n
+CVWKXAM - the result of the code is not defined.\n\n
+VKYPQCF - the result of the code is not defined.\n\n
+BMTPWHR - the result of the code is not defined.\n\n
+    </string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3861995689830617/95934292741</string>
+</resources>

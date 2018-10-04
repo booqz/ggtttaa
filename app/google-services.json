@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217353838660",
+    "firebase_url": "https://odesgtasanandreas.firebaseio.com",
+    "project_id": "odesgtasanandreas",
+    "storage_bucket": "odesgtasanandreas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217353838660:android:8274ddb11844cdbe",
+        "android_client_info": {
+          "package_name": "com.codes_cheats_samp_sanandreas.gg.odesgtasanandreas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217353838660-4a2elih8v6eb484hc3qd198e2b7th6pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbl_1S4iHJuLUfgUyQn_iDh2wxrB_RBOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
